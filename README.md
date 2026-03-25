@@ -3,6 +3,7 @@
 Understand your health reports. Instantly. Intelligently.
 
 🌐 Live Demo: https://vitascan-ai-agent.lovable.app
+🎨 Presentation: https://vitascan-ai-xvuf9ey.gamma.site/
 
 ---
 
